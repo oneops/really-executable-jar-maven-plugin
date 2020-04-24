@@ -52,7 +52,7 @@
   <properties>
     <dep.maven-api.version>3.0</dep.maven-api.version>
     <dep.plexus.version>1.5.5</dep.plexus.version>
-    <dep.plexus-utils.version>2.0.4</dep.plexus-utils.version>
+    <dep.plexus-utils.version>2.1</dep.plexus-utils.version>
     <dep.plugin.plugin.version>3.4</dep.plugin.plugin.version>
   </properties>
 
